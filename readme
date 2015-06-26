@@ -1,0 +1,28 @@
+johnOS
+A super simple operating system by John Serrano
+
+//can you even call it an operating system?
+
+
+
+Written for fun. I really had no idea what I was getting into here... It's not functional in really any sense of the word, but I learned a lot writing this. At the moment, it is too simple to have any application.
+
+
+
+
+to run:
+
+make run
+
+*requires qemu
+
+
+
+
+State of Development:
+
++ Boots into 32bit protected mode
++ Executes C programs
++ Screen Driver works for command line purposes at fixed resolution (80x25)
+- Keyboard driver reads from keyboard and can translate some characters but does not cover all keys
+- Cannot current process commands into programs
