@@ -25,4 +25,4 @@ State of Development:
 + Executes C programs
 + Screen Driver works for command line purposes at fixed resolution (80x25)
 - Keyboard driver reads from keyboard and can translate some characters but does not cover all keys
-- Cannot current process commands into programs
+- Cannot currently process commands into programs
